@@ -1,0 +1,19 @@
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:  rgb(55, 107, 107);
+  
+}
+.log{
+    margin: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+nav{
+    background-color: aquamarine;
+    height: 100px;
+
+}

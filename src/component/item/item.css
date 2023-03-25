@@ -1,0 +1,14 @@
+.card{
+    color: white;
+    font-style: italic; 
+    margin: 20px;
+}
+.cart-button{
+    background-color: grey;
+    border-radius: 4px;
+}
+.card-title{
+    color: rgb(55, 107, 107);
+    font-weight: bold;
+    font-size: 20px;
+}
